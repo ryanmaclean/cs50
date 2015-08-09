@@ -10,6 +10,12 @@ typically using SourceTree as a cructh (and what a great crutch it is!)
 Pushing the code:
 'git push origin master'
 
+Adding files:
+'git add .'
+
+Making a commit:
+'git commit' -> then type a commit in Vi, followed by ':wq'
+
 #Brew
 I'm also using the amazing Homebrew (http://brew.sh) in order to 
 manage packages for the course. 
