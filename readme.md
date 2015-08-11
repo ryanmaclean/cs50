@@ -15,6 +15,7 @@ Adding files:
 
 Making a commit:
 'git commit' -> then type a commit in Vi, followed by ':wq'
+'git commit -m "message"' can help you avoid this
 
 #Brew
 I'm also using the amazing Homebrew (http://brew.sh) in order to 
