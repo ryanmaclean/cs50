@@ -3,5 +3,5 @@
 
 int main(int argc, string argv[])
 {
-// Todo
+	printf("hello, %s\n", argv[1]);
 }
