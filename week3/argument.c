@@ -3,5 +3,14 @@
 
 int main(int argc, string argv[])
 {
-	printf("hello, %s\n", argv[1]);
+	if (argc == 2)
+	{
+		printf("hello, %s\n", argv[1]);
+		return 0;
+	}
+	else
+	{
+		printf("Incorrect number of arguments\n");
+		return 1;
+	}
 }
